@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am a Ph.D. student at the Department of Computer Science, Aalto University.
+- 🌱 I am interested in Machine Learning, Bioinformatics, and Multi-modal Learning.
