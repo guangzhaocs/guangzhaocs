@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 
 - ✨ I am a Ph.D. student at the Department of Computer Science, [Aalto University](https://www.aalto.fi/en).
 - 🔭 I am interested in Machine Learning, Bioinformatics, and Multi-modal Learning.
+
+
+🧰 Tools:
+
+&emsp;&emsp; 
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
