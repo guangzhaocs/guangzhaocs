@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 &emsp;&emsp; 
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![R](https://img.shields.io/badge/-R-pink?style=flat-square&logo=R)
+![R](https://img.shields.io/badge/-R-FCC624?style=flat-square&logo=R)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
