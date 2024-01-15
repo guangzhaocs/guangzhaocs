@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - ✨ I am a Ph.D. student at the Department of Computer Science, [Aalto University](https://www.aalto.fi/en).
-- 🔭 I am interested in Machine Learning, Bioinformatics, and Multi-modal Learning.
+- 🔭 I am interested in Machine Learning, Bioinformatics, and AI for biomedicine & healthcare.
 
 
 🧰 Tools:
