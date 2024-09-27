@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-- ✨ I am a Ph.D. student at the Department of Computer Science, [Aalto University](https://www.aalto.fi/en).
-- 🔭 I am interested in Machine Learning, Multimodal Learning, and Bioinformatics.
-
 
 🧰 Tools:
 
@@ -29,3 +24,9 @@ Here are some ideas to get you started:
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+-->
+
+- ✨ I am a Ph.D. student at the Department of Computer Science, [Aalto University](https://www.aalto.fi/en).
+- 🔭 I am interested in Machine Learning, Multimodal Learning, and Bioinformatics.
+
+
